@@ -18,9 +18,13 @@ Catch Every Legendary (That I can in a single playthrough...)
 
 - No Legendaries are allowed to be used in our party
 
-- No Healing Items in Combat
+- No Healing Items/Status Cure items in Combat unless held.
   
 - I cannot level up past the next major content. IE Rivals, Story events (Maxie, Giovini, etc etc), Gymleaders, and the Champion.
+
+- We cannot take on the gym leaders until we beat all of the trainers before them.
+
+- We cannot leave the gym once we enter
 
 ## Moving To The Next Game
 
