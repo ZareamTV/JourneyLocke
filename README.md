@@ -6,11 +6,9 @@ What is JourneyLocke? Essentially this is a challenge where I am going through e
 
 ## Requirements To Move On To The Next Game
 
-Effectively we have 2 major rules to win:
+Effectively we have 1 major rules to win:
 
 Beat The Elite 4
-
-Catch Every Legendary (That I can in a single playthrough...)
 
 ## Restrictions
 
@@ -22,9 +20,10 @@ Catch Every Legendary (That I can in a single playthrough...)
   
 - I cannot level up past the next major content. IE Rivals, Story events (Maxie, Giovini, etc etc), Gymleaders, and the Champion.
 
-- We cannot take on the gym leaders until we beat all of the trainers before them.
-
-- We cannot leave the gym once we enter
+- Gym Rules:
+  1. I cannot leave a gym once I enter (this is to make me premake a team)
+  2. I cannot leave the gym till all of the trainers have been defeated
+  3. I can only use the same amount of heals that the gym leaders have through the whole gym (excluding status cures)
 
 ## Moving To The Next Game
 
