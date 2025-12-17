@@ -18,12 +18,14 @@ Beat The Elite 4
 
 - No Healing Items/Status Cure items in Combat unless held.
   
-- I cannot level up past the next major content. IE Rivals, Story events (Maxie, Giovini, etc etc), Gymleaders, and the Champion.
+- I cannot level up past the next major content. IE Rivals, Story events (Maxie, Giovini, etc etc), Gyms (See Gym Rules), Elite 4 and the Champion.
 
 - Gym Rules:
   1. I cannot leave a gym once I enter (this is to make me premake a team)
-  2. I cannot leave the gym till all of the trainers have been defeated
-  3. I can only use the same amount of heals that the gym leaders have through the whole gym (excluding status cures)
+  2. I cannot I cannot take on the gym leader until I beat all the gym trainers.
+  3. I can only fight the trainers using pokemon the level of or less of the highest gym trainers mons.
+  4. Once all gym trainers have been defeated I can level my pokemon to the gym leader's level.
+  5. I can only use the same amount of heals that the gym leaders have through the whole gym (excluding status cures).
 
 ## Moving To The Next Game
 
