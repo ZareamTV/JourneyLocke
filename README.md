@@ -16,7 +16,7 @@ Beat The Elite 4 and the Champion
 
 - No Legendaries are allowed to be used in our party
 
-- No Healing Items/Status Cure items in Combat unless held.
+- No Healing Items/Status Cure items in Trainer Battles unless held.
   
 - I cannot level up past the next major content. IE Rivals, Story Antaganists (Maxie, Giovini, etc etc), Gyms (See Gym Rules), Elite 4 Members and the Champion.
   - If multiple paths exists, I may choose them in any order as my Level cap. 
