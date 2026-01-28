@@ -19,6 +19,7 @@ Beat The Elite 4 and the Champion
 - No Healing Items/Status Cure items in Combat unless held.
   
 - I cannot level up past the next major content. IE Rivals, Story Antaganists (Maxie, Giovini, etc etc), Gyms (See Gym Rules), Elite 4 Members and the Champion.
+  - If multiple paths exists, I may choose them in any order as my Level cap. 
 
 ## Moving To The Next Game
 
